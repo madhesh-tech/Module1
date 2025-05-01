@@ -24,3 +24,4 @@ else:
 ![ex1 1](https://github.com/user-attachments/assets/36822241-fd2d-49e9-9bbb-872b16bcaee3)
 
 ## Result
+The expected output is Achieved.
